@@ -39,4 +39,4 @@ This is a simple web application that uses a trained Support Vector Machine (SVM
 
 ## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kaif21-cmd/Diabetes-Prediction/blob/main/LICENSE) file for details.
